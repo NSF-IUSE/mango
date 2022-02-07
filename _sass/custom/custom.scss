@@ -122,6 +122,11 @@ a {
 .table-wrapper {
   width: 890px;
   max-width: none;
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
 }
 
 .side-bar {
