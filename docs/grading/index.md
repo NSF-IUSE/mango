@@ -33,10 +33,10 @@ Grading rules for each deliverable will be posted on moodleMoodle assignments. L
 >
 >  New Features: 20 points (10 points/feature, your grading = (your feature/# of your features) + (sum of others’ features/# of others’ features))
 
-### ** - _9 points – Labs (3 points per lab)_**
-### ** - _5 points - Cross Evaluation of Contribution of Team Members_**
-### ** - _5 points – Attendance (10 random checkpoints, and 0.5 point per checkpoint)_**
-### ** - _20 points – Exam_**
+### **- _9 points – Labs (3 points per lab)_**
+### **- _5 points - Cross Evaluation of Contribution of Team Members_**
+### **- _5 points – Attendance (10 random checkpoints, and 0.5 point per checkpoint)_**
+### **- _20 points – Exam_**
 
 ## **Criteria:**
 Grading rule for each assignment will be posted on moodle.
