@@ -17,7 +17,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text"),
-    url("../../assets/font/KOMTXT__.woff") format("woff");
+  url("../../assets/font/KOMTXT__.woff") format("woff");
 }
 
 @font-face {
@@ -25,7 +25,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Italic"),
-    url("../../assets/font/KOMTXTI_.woff") format("woff");
+  url("../../assets/font/KOMTXTI_.woff") format("woff");
 }
 
 @font-face {
@@ -33,7 +33,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Bold"),
-    url("../../assets/font/KOMTXTB_.woff") format("woff");
+  url("../../assets/font/KOMTXTB_.woff") format("woff");
 }
 
 @font-face {
@@ -41,7 +41,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Bold Italic"),
-    url("../../assets/font/KOMTXTBI.woff") format("woff");
+  url("../../assets/font/KOMTXTBI.woff") format("woff");
 }
 
 @font-face {
@@ -49,7 +49,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Kaps"),
-    url("../../assets/font/KOMTXTK_.woff") format("woff");
+  url("../../assets/font/KOMTXTK_.woff") format("woff");
 }
 
 @font-face {
@@ -57,7 +57,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Tight"),
-    url("../../assets/font/KOMTXTT_.woff") format("woff");
+  url("../../assets/font/KOMTXTT_.woff") format("woff");
 }
 
 @font-face {
@@ -65,7 +65,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Kaps Italic"),
-    url("../../assets/font/KOMTXTKI.woff") format("woff");
+  url("../../assets/font/KOMTXTKI.woff") format("woff");
 }
 
 @font-face {
@@ -73,7 +73,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Tight Italic"),
-    url("../../assets/font/KOMTXTTI.woff") format("woff");
+  url("../../assets/font/KOMTXTTI.woff") format("woff");
 }
 
 @font-face {
@@ -81,7 +81,7 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Kaps Bold"),
-    url("../../assets/font/KOMTXTKB.woff") format("woff");
+  url("../../assets/font/KOMTXTKB.woff") format("woff");
 }
 
 @font-face {
@@ -89,45 +89,41 @@ $white: #fff;
   font-style: normal;
   font-weight: normal;
   src: local("Komika Text Kaps Bold Italic"),
-    url("../../assets/font/KOMTXKBI.woff") format("woff");
+  url("../../assets/font/KOMTXKBI.woff") format("woff");
 }
 
-* {
-  color: $black !important;
-  font-family: "Komika Text", sans-serif !important;
-  //font-size: 18px;
+body {
+  color: $black;
+  font-family: "Komika Text", sans-serif;
   line-height: 29px;
 }
 
-// h2 {
-//   font-size: 24px !important;
-// }
-// h1 {
-//   font-size: 30px !important;
-// }
+h1, h2 {
+  font-family: "Helsinki", sans-serif;
+}
+
+h1, h2 {
+  color: $green !important;
+}
 
 b,
 strong {
-  color: $green !important;
-  em {
-    color: $black !important;
-  }
-}
-
-blockquote {
-  strong {
-    color: $black !important;
-  }
+  font-weight: bolder !important;
 }
 
 a {
   color: $blue !important;
 }
 
+.label {
+  font-family: cursive;
+}
+
 .table-wrapper {
   width: 890px;
   max-width: none;
 }
+
 .side-bar {
   background-color: $green !important;
 }
@@ -136,8 +132,9 @@ a {
   font-size: 20px !important;
   color: $white !important;
 }
+
 .nav-list-item.active a {
-  color: #10126e !important;
+  color: $green !important;
 }
 
 @media (min-width: 31.25rem) {

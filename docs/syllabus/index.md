@@ -22,10 +22,10 @@ Students will participate in managing and executing the process of carrying a si
 
 ## **Technology**
 
-> - ## [Computer System & Software Requirements](https://confluence.clarkson.edu/display/OITKB/Technology+recommendations+for+Distance+and+Online+Learning)
-> - ## [Software Accessibility Policies](https://confluence.clarkson.edu/display/OITKB/Accessibility+Statements) in General
-> - ## [Software Privacy Policies](https://confluence.clarkson.edu/display/OITKB/Privacy+Policies) in General
-> - ## Specific Course Software Policies
+> - ### [Computer System & Software Requirements](https://confluence.clarkson.edu/display/OITKB/Technology+recommendations+for+Distance+and+Online+Learning)
+> - ### [Software Accessibility Policies](https://confluence.clarkson.edu/display/OITKB/Accessibility+Statements) in General
+> - ### [Software Privacy Policies](https://confluence.clarkson.edu/display/OITKB/Privacy+Policies) in General
+> - ### Specific Course Software Policies
 
 > ### **Minimum Technology Skills**
 >
@@ -77,7 +77,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 >
 > If you are to benefit from this class and be properly evaluated for your contributions, it is important for you to be familiar with and follow Clarkson University’s Academic Integrity policy. Please review this policy online ([Undergraduate section IV – Academic Integrity](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations), [Graduate section IV – Academic Integrity](https://www.clarkson.edu/sites/default/files/2020-03/Graduate-Student-Regs_19-20.pdf)). **_Work that violates this policy will not be tolerated_**. Students who are found responsible for a violation of the Academic Integrity Policy will have both a university process sanction and an academic outcome, that could include a failing grade on the assignment or exam, or a failing grade for the course.
 >
-> Please refer to **Clarkson Library’s [Guide to Plagiarism**](https://sites.clarkson.edu/library/plagiarism/)** and the [**guide to Citing Sources](https://sites.clarkson.edu/library/citing-sources/)\*\* for assistance on avoiding plagiarism and properly citing sources.
+> Please refer to **Clarkson Library’s [Guide to Plagiarism**](https://sites.clarkson.edu/library/plagiarism/) and the [guide to Citing Sources](https://sites.clarkson.edu/library/citing-sources/) for assistance on avoiding plagiarism and properly citing sources.
 >
 > ### **Students with Disabilities Requesting Accommodation(s)**
 >

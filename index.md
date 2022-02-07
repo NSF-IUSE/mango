@@ -35,6 +35,6 @@ During this course, as your instructor, you can expect me to
 > - Respond to emails and voicemails within 12 hours
 > - Grade activities and assessments within 7 days
 
-### **Delivery Method**
+## **Delivery Method**
 
-> ### **In Classromm: (Zoom link <https://clarkson.zoom.us/j/8464946103>) is also provided due to COVID pandemic)**
+**In Classromm: (Zoom link <https://clarkson.zoom.us/j/8464946103>) is also provided due to COVID pandemic)**
