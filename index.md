@@ -6,13 +6,8 @@ seo:
     type: Course
     name: Just the Class
 ---
-![Syllabus Template V2020.07.001](assets/images/uni_icon_small.png)
-
-[//]: # ({: .float-right})
 
 # **EE368 Software Engineering**
-
-[//]: # ({: .d-block})
 
 **_(Spring 2022 (10:00AM – 10:50AM Jan. 14, 2022 – Apr. 29, 2022))
 (3) Credit Hours_**
