@@ -6,7 +6,7 @@
 
 [//]: # ({: .d-block})
 
-**_(Spring 2022 (10:00AM – 10:50AM Jan. 14, 2022 – Apr. 29, 2022))
+**_(Spring 2022 (10:00AM - 10:50AM Jan. 14, 2022 - Apr. 29, 2022))
 (3) Credit Hours_**
 
 ---
@@ -30,7 +30,7 @@ During this course, as your instructor, you can expect me to
 
 ### **Delivery Method**
 
-> ### **In Classromm: (Zoom link <https://clarkson.zoom.us/j/8464946103>) is also provided due to COVID pandemic)**
+> ### **In Classromm: (Zoom link <https://clarkson.zoom.us/j/xxxx>) is also provided due to COVID pandemic)**
 
 ## **Course Description**
 
@@ -53,7 +53,7 @@ Students will participate in managing and executing the process of carrying a si
 >
 > - Use a learning management system
 > - Program in the C language
-> - Use the Linux Operation System
+> - Use the Linux Operating System
 
 ## **Course Outcomes (CO)**
 
@@ -97,7 +97,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 >
 > Academic Integrity, based on the values of honesty, trust, fairness, respect, and responsibility, is a fundamental principle of scholarship in higher education. Clarkson’s Academic Integrity Policy prohibits: plagiarism (using another person’s writing or copying any work without proper citation), falsification, unauthorized collaboration during a test or on an assignment, or substitution for another student to take an exam, course or test, and other forms of academic dishonesty.
 >
-> If you are to benefit from this class and be properly evaluated for your contributions, it is important for you to be familiar with and follow Clarkson University’s Academic Integrity policy. Please review this policy online ([Undergraduate section IV – Academic Integrity](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations), [Graduate section IV – Academic Integrity](https://www.clarkson.edu/sites/default/files/2020-03/Graduate-Student-Regs_19-20.pdf)). **_Work that violates this policy will not be tolerated_**. Students who are found responsible for a violation of the Academic Integrity Policy will have both a university process sanction and an academic outcome, that could include a failing grade on the assignment or exam, or a failing grade for the course.
+> If you are to benefit from this class and be properly evaluated for your contributions, it is important for you to be familiar with and follow Clarkson University’s Academic Integrity policy. Please review this policy online ([Undergraduate section IV - Academic Integrity](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations), [Graduate section IV - Academic Integrity](https://www.clarkson.edu/sites/default/files/2020-03/Graduate-Student-Regs_19-20.pdf)). **_Work that violates this policy will not be tolerated_**. Students who are found responsible for a violation of the Academic Integrity Policy will have both a university process sanction and an academic outcome, that could include a failing grade on the assignment or exam, or a failing grade for the course.
 >
 > Please refer to **Clarkson Library’s [Guide to Plagiarism**](https://sites.clarkson.edu/library/plagiarism/)** and the [**guide to Citing Sources](https://sites.clarkson.edu/library/citing-sources/)\*\* for assistance on avoiding plagiarism and properly citing sources.
 >
@@ -111,7 +111,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 
 ### **Student Regulation Requirements for Excused and Extended Absence**
 
-> [Undergraduate: III-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations) > [Graduate – II-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations)
+> [Undergraduate: III-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations) > [Graduate - II-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations)
 >
 > ### [**Grading System**](https://intranet.clarkson.edu/student-life/sas/grading-system/)
 >
