@@ -9,11 +9,11 @@ has_children: false
 
 _This calendar is tentative, and subject to revision during the semester._
 
-<strong class="label label-green">Green</stronglectures
+<strong class="label label-green">Green</strong>lectures
 
-<strong class="label label-blue">Blue</strongsupporting activities, including labs, tutorial, demo, etc
+<strong class="label label-blue">Blue</strong>supporting activities, including labs, tutorial, demo, etc
 
-<strong class="label label-red">Red</strongstudent project deliverables
+<strong class="label label-red">Red</strong>student project deliverables
 
 <table>
     <thead>
@@ -96,7 +96,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L01</strongHistory of Software Engineering
+                    <strong class="label label-green">L01</strong>History of Software Engineering
                 </p>
             </td>
             <td>
@@ -110,7 +110,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L02</strongSoftware Lifespan Model
+                    <strong class="label label-green">L02</strong>Software Lifespan Model
                 </p>
             </td>
             <td>
@@ -124,7 +124,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L03</strongSoftware Technologies
+                    <strong class="label label-green">L03</strong>Software Technologies
                 </p>
             </td>
             <td>
@@ -143,7 +143,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Tutorial</strong<a href="https://drive.google.com/file/d/1tQ2H0Xq7Hu3LTCn0zb-QHs0hqeKJxmkF/view?usp=sharing">Introduction to Mango Project</a>
+                    <strong class="label label-blue">Tutorial</strong><a href="https://drive.google.com/file/d/1tQ2H0Xq7Hu3LTCn0zb-QHs0hqeKJxmkF/view?usp=sharing">Introduction to Mango Project</a>
                 </p>
             </td>
             <td>
@@ -160,7 +160,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab1</strong<a href="../../assets/files/Lab1%20Github.pdf">Github</a>
+                    <strong class="label label-blue">Lab1</strong><a href="../../assets/files/Lab1%20Github.pdf">Github</a>
                 </p>
             </td>
             <td>
@@ -174,7 +174,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab2</strong<a href="../../assets/files/Lab2-TomCat.pdf"> Build and install Tomcat</a>
+                    <strong class="label label-blue">Lab2</strong><a href="../../assets/files/Lab2-TomCat.pdf"> Build and install Tomcat</a>
                 </p>
             </td>
             <td>
@@ -193,7 +193,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab3</strong<a href="../../assets/files/Lab3-JSP.pdf">JSP Deployment on Tomcat</a>
+                    <strong class="label label-blue">Lab3</strong><a href="../../assets/files/Lab3-JSP.pdf">JSP Deployment on Tomcat</a>
                 </p>
             </td>
             <td>
@@ -207,7 +207,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab4</strong<a href="../../assets/files/Lab4-Mango.pdf">Build and install Mango</a>
+                    <strong class="label label-blue">Lab4</strong><a href="../../assets/files/Lab4-Mango.pdf">Build and install Mango</a>
                 </p>
             </td>
             <td>
@@ -221,7 +221,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Demo</strong<a href="https://drive.google.com/file/d/1Fg4gniE342lMYLmqZjfnyQUI7ZIMeizX/view?usp=sharing">Mango New Feature Demo</a>
+                    <strong class="label label-blue">Demo</strong><a href="https://drive.google.com/file/d/1Fg4gniE342lMYLmqZjfnyQUI7ZIMeizX/view?usp=sharing">Mango New Feature Demo</a>
                 </p>
             </td>
             <td>
@@ -243,7 +243,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L04</strongSoftware Models
+                    <strong class="label label-green">L04</strong>Software Models
                 </p>
             </td>
             <td>
@@ -257,7 +257,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L05</strongIntroduction to Software Changes
+                    <strong class="label label-green">L05</strong>Introduction to Software Changes
                 </p>
             </td>
             <td>
@@ -271,7 +271,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">SL</strong<a href="../../assets/files/Intro%20to%20Requirements%20Writing.ppt">Intro to Requirements Writing & In-class Practice</a>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Requirements%20Writing.ppt">Intro to Requirements Writing & In-class Practice</a>
                 </p>
             </td>
             <td>
@@ -290,7 +290,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P01</strongMango Architecture Presentation
+                    <strong class="label label-red">P01</strong>Mango Architecture Presentation
                 </p>
             </td>
             <td>
@@ -304,10 +304,10 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L06</strongConcepts and Concept Location
+                    <strong class="label label-green">L06</strong>Concepts and Concept Location
                 </p>
                 <p>
-                    <strong class="label label-blue">Lab5</strong<a href="../../assets/files/Lab5-Concept%20Location.pdf">Concept Location</a>
+                    <strong class="label label-blue">Lab5</strong><a href="../../assets/files/Lab5-Concept%20Location.pdf">Concept Location</a>
                 </p>
             </td>
             <td>
@@ -321,10 +321,10 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L07</strongImpact Analysis
+                    <strong class="label label-green">L07</strong>Impact Analysis
                 </p>
                 <p>
-                    <strong class="label label-blue">Lab6</strong<a href="../../assets/files/Lab6-Impact%20Analysis.pdf">Impact Analysis</a>
+                    <strong class="label label-blue">Lab6</strong><a href="../../assets/files/Lab6-Impact%20Analysis.pdf">Impact Analysis</a>
                 </p>
             </td>
             <td>
@@ -346,7 +346,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P02</strongRequirement Presentation & Review (Section I)
+                    <strong class="label label-red">P02</strong>Requirement Presentation & Review (Section I)
                 </p>
             </td>
             <td>
@@ -360,7 +360,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P02</strongRequirement Presentation & Review (Section II)
+                    <strong class="label label-red">P02</strong>Requirement Presentation & Review (Section II)
                 </p>
             </td>
             <td>
@@ -393,7 +393,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L08</strongActualization
+                    <strong class="label label-green">L08</strong>Actualization
                 </p>
             </td>
             <td>
@@ -407,7 +407,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L09</strongRefactoring
+                    <strong class="label label-green">L09</strong>Refactoring
                 </p>
             </td>
             <td>
@@ -421,7 +421,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L10</strongVerification
+                    <strong class="label label-green">L10</strong>Verification
                 </p>
             </td>
             <td>
@@ -443,7 +443,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P03</strongDesign Presentation (Concept Location & Impact Analysis) (Section I)
+                    <strong class="label label-red">P03</strong>Design Presentation (Concept Location & Impact Analysis) (Section I)
                 </p>
             </td>
             <td>
@@ -457,7 +457,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P03</strongDesign Presentation (Concept Location & Impact Analysis) (Section II)
+                    <strong class="label label-red">P03</strong>Design Presentation (Concept Location & Impact Analysis) (Section II)
                 </p>
             </td>
             <td>
@@ -471,7 +471,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">SL</strong<a href="../../assets/files/Intro%20to%20Test%20Case%20Writing.ppt">Intro to Test Case Writing & In-class Practice</a>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Test%20Case%20Writing.ppt">Intro to Test Case Writing & In-class Practice</a>
                 </p>
             </td>
             <td>
@@ -537,7 +537,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L11</strongConclusion of Software Changes. Essay Assignment
+                    <strong class="label label-green">L11</strong>Conclusion of Software Changes. Essay Assignment
                 </p>
             </td>
             <td>
@@ -554,7 +554,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P04</strongTest Cases Presentation (Section I)
+                    <strong class="label label-red">P04</strong>Test Cases Presentation (Section I)
                 </p>
             </td>
             <td>
@@ -568,7 +568,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P04</strongTest Cases Presentation (Section II)
+                    <strong class="label label-red">P04</strong>Test Cases Presentation (Section II)
                 </p>
             </td>
             <td>
@@ -587,7 +587,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L12</strongSoftware Security
+                    <strong class="label label-green">L12</strong>Software Security
                 </p>
             </td>
             <td>
@@ -634,7 +634,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">SL</strong<a href="../../assets/files/Intro%20to%20Code%20Inspection.ppt">Intro Code Inspection</a>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Code%20Inspection.ppt">Intro Code Inspection</a>
                 </p>
             </td>
             <td>
