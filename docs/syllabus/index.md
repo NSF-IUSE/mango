@@ -33,7 +33,7 @@ Students will participate in managing and executing the process of carrying a si
 > - Program in the C language
 > - Use the Linux Operating System
 
-## **Course Outcomes (CO)**
+## **Course Outcomes - CO**
 
 **CO1:** Explain the concepts of the software maintenance process and techniques.
 

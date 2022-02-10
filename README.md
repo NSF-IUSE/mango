@@ -55,13 +55,13 @@ Students will participate in managing and executing the process of carrying a si
 > - Program in the C language
 > - Use the Linux Operating System
 
-## **Course Outcomes (CO)**
+## **Course Outcomes - CO**
 
-CO1: Explain the concepts of the software maintenance process and techniques.
+**CO1:** Explain the concepts of the software maintenance process and techniques.
 
-CO2: Be familiar with the software maintenance process through the practice in the course project.
+**CO2:** Be familiar with the software maintenance process through the practice in the course project.
 
-CO3: Improve the capability of teamwork, problem solving, risk analysis, etc.
+**CO3:** Improve the capability of teamwork, problem solving, risk analysis, etc.
 
 ## **Course Success**
 
@@ -99,7 +99,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 >
 > If you are to benefit from this class and be properly evaluated for your contributions, it is important for you to be familiar with and follow Clarkson University’s Academic Integrity policy. Please review this policy online ([Undergraduate section IV - Academic Integrity](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations), [Graduate section IV - Academic Integrity](https://www.clarkson.edu/sites/default/files/2020-03/Graduate-Student-Regs_19-20.pdf)). **_Work that violates this policy will not be tolerated_**. Students who are found responsible for a violation of the Academic Integrity Policy will have both a university process sanction and an academic outcome, that could include a failing grade on the assignment or exam, or a failing grade for the course.
 >
-> Please refer to **Clarkson Library’s [Guide to Plagiarism**](https://sites.clarkson.edu/library/plagiarism/)** and the [**guide to Citing Sources](https://sites.clarkson.edu/library/citing-sources/)\*\* for assistance on avoiding plagiarism and properly citing sources.
+> Please refer to Clarkson Library’s [Guide to Plagiarism](https://sites.clarkson.edu/library/plagiarism/) and the [guide to Citing Sources](https://sites.clarkson.edu/library/citing-sources/) for assistance on avoiding plagiarism and properly citing sources.
 >
 > ### **Students with Disabilities Requesting Accommodation(s)**
 >
@@ -113,8 +113,8 @@ Upon success of finishing this course, all assignments need to be submitted on t
 
 > [Undergraduate: III-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations) > [Graduate - II-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations)
 >
-> ### [**Grading System**](https://intranet.clarkson.edu/student-life/sas/grading-system/)
+> [Grading System](https://intranet.clarkson.edu/student-life/sas/grading-system/)
 >
-> ### [**Discrimination & Harassment**](https://www.clarkson.edu/diversity-and-inclusion-policies)
+> [Discrimination & Harassment](https://www.clarkson.edu/diversity-and-inclusion-policies)
 >
-> ### [**Religious Accommodations**](https://www.clarkson.edu/diversity-and-inclusion-policies)
+> [Religious Accommodations](https://www.clarkson.edu/diversity-and-inclusion-policies)
