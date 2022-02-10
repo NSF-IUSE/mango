@@ -148,7 +148,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    Start knowledge building and prepare P01 document for Mango
+                    Start knowledge building and prepare <strong class="label label-red">P01</strong> document for Mango
                 </p>
             </td>
         </tr>
@@ -160,7 +160,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab1</strong>- Github
+                    <strong class="label label-blue">Lab1</strong>- <a href="../../assets/files/Lab1%20Github.pdf">Github</a>
                 </p>
             </td>
             <td>
@@ -290,7 +290,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO1</strong>- Mango Architecture Presentation
+                    <strong class="label label-red">P01</strong>- Mango Architecture Presentation
                 </p>
             </td>
             <td>
@@ -329,7 +329,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO2</strong> document due by midnight. Start working on p03 document
+                    <strong class="label label-red">P02</strong> document due by midnight. Start working on <strong class="label label-red">P03</strong> document
                 </p>
             </td>
         </tr>
@@ -346,7 +346,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO2</strong>- Requirement Presentation & Review (Section I)
+                    <strong class="label label-red">P02</strong>- Requirement Presentation & Review (Section I)
                 </p>
             </td>
             <td>
@@ -360,7 +360,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO2</strong>- Requirement Presentation & Review (Section II)
+                    <strong class="label label-red">P02</strong>- Requirement Presentation & Review (Section II)
                 </p>
             </td>
             <td>
@@ -426,7 +426,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO3</strong> document due by midnight. Start working on P04 document
+                    <strong class="label label-red">P03</strong> document due by midnight. Start working on <strong class="label label-red">P04</strong> document
                 </p>
             </td>
         </tr>
@@ -443,7 +443,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO3</strong>- Design Presentation (Concept Location & Impact Analysis) (Section I)
+                    <strong class="label label-red">P03</strong>- Design Presentation (Concept Location & Impact Analysis) (Section I)
                 </p>
             </td>
             <td>
@@ -457,7 +457,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO3</strong>- Design Presentation (Concept Location & Impact Analysis) (Section II)
+                    <strong class="label label-red">P03</strong>- Design Presentation (Concept Location & Impact Analysis) (Section II)
                 </p>
             </td>
             <td>
@@ -542,7 +542,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO4</strong> document due by midnight
+                    <strong class="label label-red">P04</strong> document due by midnight
                 </p>
             </td>
         </tr>
@@ -554,7 +554,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO4</strong>- Test Cases Presentation (Section I)
+                    <strong class="label label-red">P04</strong>- Test Cases Presentation (Section I)
                 </p>
             </td>
             <td>
@@ -568,7 +568,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">PO4</strong>- Test Cases Presentation (Section II)
+                    <strong class="label label-red">P04</strong>- Test Cases Presentation (Section II)
                 </p>
             </td>
             <td>
