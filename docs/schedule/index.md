@@ -10,8 +10,10 @@ has_children: false
 _This calendar is tentative, and subject to revision during the semester._
 
 <strong class="label label-green">Green</strong>- lectures
-<strong class="label label-green">Blue</strong>- supporting activities, including labs, tutorial, demo, etc
-<strong class="label label-green">Red</strong>- student project deliverables
+
+<strong class="label label-blue">Blue</strong>- supporting activities, including labs, tutorial, demo, etc
+
+<strong class="label label-red">Red</strong>- student project deliverables
 
 <table>
     <thead>
@@ -172,7 +174,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab2</strong>:<a href="../../assets/files/Lab2-TomCat.pdf"> Build and install Tomcat</a>
+                    <strong class="label label-blue">Lab2</strong>- <a href="../../assets/files/Lab2-TomCat.pdf"> Build and install Tomcat</a>
                 </p>
             </td>
             <td>

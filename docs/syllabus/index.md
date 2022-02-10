@@ -35,11 +35,11 @@ Students will participate in managing and executing the process of carrying a si
 
 ## **Course Outcomes (CO)**
 
-CO1: Explain the concepts of the software maintenance process and techniques.
+**CO1:** Explain the concepts of the software maintenance process and techniques.
 
-CO2: Be familiar with the software maintenance process through the practice in the course project.
+**CO2:** Be familiar with the software maintenance process through the practice in the course project.
 
-CO3: Improve the capability of teamwork, problem-solving, risk analysis, etc.
+**CO3:** Improve the capability of teamwork, problem-solving, risk analysis, etc.
 
 ## **Course Success**
 

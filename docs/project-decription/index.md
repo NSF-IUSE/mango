@@ -15,7 +15,7 @@ has_children: false
 
 3. Work in the team environment;
 
-4. Practice presentation and communication skills requested by software engineering.
+4. Practice presentation and communication skills by software engineering.
 
 ## **Team Setup:**
 
@@ -49,7 +49,161 @@ Grading rules for each deliverable will be posted on Moodle assignments. Late su
             </td>
             <td>
                 <p>
-                    <strong>Difficulty</strong>
+                    <strong>Difficulty Level</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR1.pdf">Two Decimal Truncation</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    Mango has an interface called the watch list that allows a user to view the stored data of a set of sensors. Alternatively, each sensor can be viewed independently of one another with the “point details” interface. Both of these tools display the collected values with unnecessary precision.
+                </p>
+            </td>
+            <td>
+                <p>
+                    Mango should display all values with at most two decimal places of precision. These values should be truncated, <b>not</b> rounded. This change should be made anywhere that values are displayed.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-green">Easy</strong> (Est. 1 file; 10 LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR2.pdf">Muted by Default</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    By default, a notification sound plays by default when certain events occur, including when a sensor records a new value. This feature can be toggled by clicking the mute button on the right side of the navigation bar.
+                </p>
+            </td>
+            <td>
+                <p>
+                    This feature may become useless and annoying if a large amount of sensors are constantly recording information, so it should be disabled by default. It should not be removed completely, and it should still be possible to enable and disable the notification sound.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-green">Easy</strong> (Est. 1 file; 1 LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR3.pdf">Change Password Bug</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    When attempting to change an administrator’s password in the “Users” page, an error occurs and the password is not changed.
+                </p>
+            </td>
+            <td>
+                <p>
+                    This error should be fixed, allowing an administrator’s password to be changed without an error popup appearing.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-green">Easy</strong> - <strong class="label label-yellow">Medium</strong> (Est. 1 files; 25 LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR4.pdf">Landing Page</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    When a user’s home page is not set, they are shown the watch list page by default. This page can be set and unset using the buttons on the right side of the navigation bar.
+                </p>
+            </td>
+            <td>
+                <p>
+                    Users should be shown a landing page by default. This page should include information about mango and the sensors that are being used, as well as potentially a watch list interface. This landing page should also have its own icon on the navigation bar.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-yellow">Medium</strong> (Est. 3 files; LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR5.pdf">Horizontal CSV</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    The report page allows the user to select a set of nodes and time period to generate a report for. This report is in the form of a csv file with the notable quality that all of the user selected sensors are in the same column. These sensors are only differentiated by the “Point Name” column.
+                </p>
+            </td>
+            <td>
+                <p>
+                    For ease of readability, each sensor should have its own Point Name, Time, Value, Rendered, and Annotation columns.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-yellow">Medium</strong> (Est. 2 files; 200 LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR6.pdf">Optimization of Run Reports</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    The user can generate a report for a set of sensors across a time range in the reports page. The data is stored in a derby (sql-based) database, and the report is generated by querying it. However, this can take a long time.
+                </p>
+            </td>
+            <td>
+                <p>
+                    This process should be optimized to generate the report more quickly. This can be done in part by restructuring the derby database.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-yellow">Medium</strong> (Est. 1 file; 4 LOC)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <a href="../../assets/files/FR7.pdf">More Report Charts</a>
+                </p>
+            </td>
+            <td>
+                <p>
+                    When generating a report, the user can choose to generate a chart for each sensor. They can then view the chart by clicking the “View Charts” button once the report is generated.
+                </p>
+            </td>
+            <td>
+                <p>
+                    This feature should be improved by adding reference lines and the ability to add descriptive labels for X and Y axes. A scatter plot should also be generated.
+                </p>
+            </td>
+            <td>
+                <p>
+                    <strong class="label label-red">Hard</strong> (Est. 8 files; 225 LOC)
                 </p>
             </td>
         </tr>
