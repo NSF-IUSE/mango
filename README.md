@@ -1,10 +1,6 @@
 ![Syllabus Template V2020.07.001](assets/images/uni_icon_small.png)
 
-[//]: # ({: .float-right})
-
 # **EE368 Software Engineering**
-
-[//]: # ({: .d-block})
 
 **_(Spring 2022 (10:00AM - 10:50AM Jan. 14, 2022 - Apr. 29, 2022))
 (3) Credit Hours_**
@@ -30,11 +26,11 @@ During this course, as your instructor, you can expect me to
 
 ### **Delivery Method**
 
-> ### **In Classromm: (Zoom link <https://clarkson.zoom.us/j/xxxx>) is also provided due to COVID pandemic)**
+> ### **In Classroom: Zoom link (<https://clarkson.zoom.us/j/xxxx>) is also provided due to COVID pandemic**
 
 ## **Course Description**
 
-Students will participate in managing and executing the process of carrying a significant software development effort from a conceptual idea of new features through integration and testing of the entire feature working on an existed product. This will require them to independently: (a). investigate appropriate technologies, (b). identify relevant risk factors, (c). address issues associated with software quality assurance; Students will produce appropriate documentation of system requirements and design, testing efforts and user interfaces; Students will demonstrate an ability to evaluate the suitability of available technology for use in development of the product; Students will gain experience with issues encountered in maintenance of software systems; Students will be aware of the social and ethical issues of concern to software engineers and the impact of software engineering solutions on modern society; Students will be able to function as an effective member of a team of professionals; Students will gain experience independently learning new technology.
+Students will participate in managing and executing the process of carrying a significant software development effort from a conceptual idea of new features through integration and testing of the entire feature working on an existing product. This will require students to independently: (a). investigate appropriate technologies, (b). identify relevant risk factors, (c). address issues associated with software quality assurance;. This course has the following student learning outcomes: Students will produce appropriate documentation of system requirements and design, testing efforts and user interfaces; Students will demonstrate an ability to evaluate the suitability of available technology for use in development of the product; Students will gain experience with issues encountered in maintenance of software systems; Students will be aware of the social and ethical issues of concern to software engineers and the impact of software engineering solutions on modern society; Students will be able to function as an effective member of a team of professionals; Students will gain experience independently learning new technology.
 
 ## **Instructional Materials**
 
@@ -83,7 +79,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 >
 > ### **Recorded Lectures**
 >
-> Regular lectures and presentations will be recorded, and recorded lectures will be uploaded to the moodle for your access. Others will NOT be recorded.
+> Regular lectures and presentations will be recorded, and recorded lectures will be uploaded to Moodle for your access. Others will NOT be recorded.
 
 ## **Academic Unit Information/Policies**
 

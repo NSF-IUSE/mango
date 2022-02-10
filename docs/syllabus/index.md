@@ -61,7 +61,7 @@ Upon success of finishing this course, all assignments need to be submitted on t
 >
 > ### **Recorded Lectures**
 >
-> Regular lectures and presentations will be recorded, and recorded lectures will be uploaded to the moodle for your access. Others will NOT be recorded.
+> Regular lectures and presentations will be recorded, and recorded lectures will be uploaded to Moodle for your access. Others will NOT be recorded.
 
 ## **Academic Unit Information/Policies**
 

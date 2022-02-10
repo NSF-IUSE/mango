@@ -34,4 +34,4 @@ During this course, as your instructor, you can expect me to
 
 ## **Delivery Method**
 
-**In Classromm: (Zoom link <https://clarkson.zoom.us/j/xxxx>) is also provided due to the COVID pandemic)**
+**In Classroom: Zoom link (<https://clarkson.zoom.us/j/xxxx>) is also provided due to the COVID pandemic**
