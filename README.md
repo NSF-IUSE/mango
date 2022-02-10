@@ -61,7 +61,7 @@ Students will participate in managing and executing the process of carrying out 
 
 ## **Course Success**
 
-Upon success of finishing this course, all assignments need to be submitted on time and requesting help from the instructor if needed.
+To succeed in this course, submit all assignments  on time and request help from the instructor if needed.
 
 ## **Course Policies**
 
