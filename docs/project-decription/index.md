@@ -240,11 +240,11 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 ### **1 - _Mango Architecture Diagrams (Due: February 14, 2022)_**
 
-> **(1).** You can use any tool including Mango itself to draw the UML diagrams extracted from Mango source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
+> **(1).** You can use any tool to draw the UML diagrams extracted from Mango source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
 >
-> **(2).** One-page summary explaining these two diagrams and your improvements in details is requested. (2 point)
+> **(2).** One-page summary explaining these two diagrams and your improvements in detail is requested. (2 point)
 >
-> **(3).** Presentation slides are not requested. You can present based on your diagrams and the summary. (2 points)
+> **(3).** Presentation slides are not required. You can present based on your diagrams and the summary. (2 points)
 >
 > Note that the rules for the absence of presentation are the same as before.
 
