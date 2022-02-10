@@ -36,7 +36,7 @@ Students will participate in managing and executing the process of carrying out 
 
 > ### **Textbook(s)**
 >
-> - Software Engineering: The Current Practice, Vaclav Rajlich, CRC Press
+> - [Software Engineering: The Current Practice, Vaclav Rajlich, CRC Press](https://www.amazon.com/Software-Engineering-Practice-Innovations-Development/dp/1439841225)
 
 ## **Technology**
 
