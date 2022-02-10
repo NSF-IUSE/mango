@@ -15,7 +15,7 @@ Phone Number: (315)268-6510
 Email Address: yuliu@clarkson.edu
 Office Hours: 1pm-3pm Monday, Wednesday, and Friday
 
-- Will be virtually via Zoom in Spring 2022.
+- Will be conducted virtually via Zoom in Spring 2022.
 
 ## **Instructor Participation**
 

@@ -18,12 +18,16 @@ Students will participate in managing and executing the process of carrying out 
 ## **Instructor Contact Information**
 
 Name: Yu Liu
-Classroom Address: SC 346
+
+Classroom: SC 346
+
 Phone Number: (315)268-6510
+
 Email Address: yuliu@clarkson.edu
+
 Office Hours: 1pm-3pm Monday, Wednesday, and Friday
 
-- Will be virtually via Zoom in Spring 2022.
+- Will be conducted virtually via Zoom in Spring 2022.
 
 ## **Instructor Participation**
 
