@@ -96,7 +96,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L01</strong>History of Software Engineering
+                    <strong class="label label-green">L01</strong><a href="../../assets/files/L01- history of software engineering.ppt">History of Software Engineering</a>
                 </p>
             </td>
             <td>
@@ -110,7 +110,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L02</strong>Software Lifespan Model
+                    <strong class="label label-green">L02</strong><a href="../../assets/files/L02 - software life span models.ppt">Software Lifespan Model</a>
                 </p>
             </td>
             <td>
@@ -124,7 +124,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L03</strong>Software Technologies
+                    <strong class="label label-green">L03</strong><a href="../../assets/files/L03 - software technologies.ppt">Software Technologies</a>
                 </p>
             </td>
             <td>
@@ -143,7 +143,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Tutorial</strong><a href="https://drive.google.com/file/d/1tQ2H0Xq7Hu3LTCn0zb-QHs0hqeKJxmkF/view?usp=sharing">Introduction to Mango Project</a>
+                    <strong class="label label-blue">Tutorial</strong><a href="https://drive.google.com/file/d/1tQ2H0Xq7Hu3LTCn0zb-QHs0hqeKJxmkF/view?usp=sharing">Intro to Mango Project</a>
                 </p>
             </td>
             <td>
@@ -160,7 +160,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Lab1</strong><a href="../../assets/files/Lab1%20Github.pdf">Github</a>
+                    <strong class="label label-blue">Lab1</strong><a href="../../assets/files/Lab1-Github.pdf">Github</a>
                 </p>
             </td>
             <td>
@@ -243,7 +243,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L04</strong>Software Models
+                    <strong class="label label-green">L04</strong><a href="../../assets/files/L04 - software models.ppt">Software Models</a>
                 </p>
             </td>
             <td>
@@ -257,7 +257,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L05</strong>Introduction to Software Changes
+                    <strong class="label label-green">L05</strong><a href="../../assets/files/L05 - introduction to software change.ppt">Introduction to Software Changes</a>
                 </p>
             </td>
             <td>
@@ -304,7 +304,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L06</strong>Concepts and Concept Location
+                    <strong class="label label-green">L06</strong><a href="../../assets/files/L06 - concepts and concept location.ppt">Concepts and Concept Location</a>
                 </p>
                 <p>
                     <strong class="label label-blue">Lab5</strong><a href="../../assets/files/Lab5-Concept%20Location.pdf">Concept Location</a>
@@ -321,7 +321,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L07</strong>Impact Analysis
+                    <strong class="label label-green">L07</strong><a href="../../assets/files/L07 - impact analysis.ppt">Impact Analysis</a>
                 </p>
                 <p>
                     <strong class="label label-blue">Lab6</strong><a href="../../assets/files/Lab6-Impact%20Analysis.pdf">Impact Analysis</a>
@@ -393,7 +393,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L08</strong>Actualization
+                    <strong class="label label-green">L08</strong><a href="../../assets/files/L08 - actualization.ppt">Actualization</a>
                 </p>
             </td>
             <td>
@@ -407,7 +407,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L09</strong>Refactoring
+                    <strong class="label label-green">L09</strong><a href="../../assets/files/L09 - refactoring.ppt">Refactoring</a>
                 </p>
             </td>
             <td>
@@ -421,7 +421,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L10</strong>Verification
+                    <strong class="label label-green">L10</strong><a href="../../assets/files/L10 - verification.ppt">Verification</a>
                 </p>
             </td>
             <td>
@@ -537,7 +537,10 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L11</strong>Conclusion of Software Changes. Essay Assignment
+                    <strong class="label label-green">L11</strong><a href="../../assets/files/L11%20-%20conclusion%20of%20software%20change.ppt">Conclusion of Software Changes</a>
+                </p>
+                <p>
+                    Essay Assignment
                 </p>
             </td>
             <td>

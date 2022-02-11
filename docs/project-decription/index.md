@@ -115,7 +115,7 @@ Grading rules for each deliverable will be posted on Moodle assignments. Late su
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">Easy</strong> - <strong class="label label-yellow">Medium</strong> (Est. 1 files; 25 LOC)
+                    <strong class="label label-green">Easy</strong>-<strong class="label label-yellow">Medium</strong> (Est. 1 files; 25 LOC)
                 </p>
             </td>
         </tr>
@@ -149,7 +149,7 @@ Grading rules for each deliverable will be posted on Moodle assignments. Late su
             </td>
             <td>
                 <p>
-                    The report page allows the user to select a set of nodes and time period to generate a report for. This report is in the form of a csv file with the notable quality that all of the user selected sensors are in the same column. These sensors are only differentiated by the “Point Name” column.
+                    The report page allows the user to select a set of nodes and time period to generate a report for. This report is in the form of a csv file with the notable quality that all the user selected sensors are in the same column. These sensors are only differentiated by the “Point Name” column.
                 </p>
             </td>
             <td>
@@ -226,7 +226,7 @@ Grading rules for each deliverable will be posted on Moodle assignments. Late su
 >
 >  **New Features:** 20 points (10 points/feature, your grading = (your feature/# of your features) + (sum of others’ features/# of others’ features))
 
-### **- _9 points - Labs (3 points per lab)_**
+### **- _9 points - Labs_**
 ### **- _5 points - Cross Evaluation of Contribution of Team Members_**
 ### **- _5 points - Attendance (10 random checkpoints, and 0.5 point per checkpoint)_**
 ### **- _20 points - Exam_**
@@ -242,9 +242,9 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 > **(1).** You can use any tool to draw the UML diagrams extracted from Mango source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
 >
-> **(2).** One-page summary explaining these two diagrams and your improvements in detail is requested. (2 point)
+> **(2).** One-page summary explaining these two diagrams and your improvements in detail is requested. (1 point)
 >
-> **(3).** Presentation slides are not required. You can present based on your diagrams and the summary. (2 points)
+> **(3).** Presentation slides are not required. You can present based on your diagrams and the summary. (1 points)
 >
 > Note that the rules for the absence of presentation are the same as before.
 
@@ -268,9 +268,7 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > **Excellent:** Smart, effective and user-friendly solutions have been proposed to address the feature interaction.
 >
-> **(2).** Presentation: 2 points (must attend the presentation to get this credit)
->
-> **(3).** Feature Change Request Table: 2 points
+> **(2).** Presentation: 3 points (must attend the presentation to get this credit)
 
 ### **3 - _Design (Concept Location & Impact Analysis) (Due: March 7, 2022)_**
 
@@ -302,11 +300,11 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 ### **4 - _Test Cases & Test Results (Due: March 23, 2022)_**
 
-> **Grading (10 points in total):**
+> **Grading (9 points in total):**
 >
 > **Test case and requirement book traceability table:** 1 point
 >
-> **Presentation:** 2 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
+> **Presentation:** 1 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
 >
 > **Test Cases:** 4 points per feature and the final grading is the average points of all your features.
 >
@@ -320,11 +318,11 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > **Poor** - 1 point: Full coverage to all requirements has NOT been reached, and a significant number of test cases have issues in being considered full test cases.
 >
-> **Test Results:** 3 points (test results are due by March. 23, 2022 10:20am)
+> **Test Results:** 3 points (test results are due by April. 24, 2022 10:00am)
 
 ### **5 - _Code Inspection (Due: April 11, 2022)_**
 
-> This assignment is due by the last class (April 11, 2022 10:20am). However, the moderator needs to submit the author's summary and reader's log before your code inspection meeting. The in-meeting log and final summary can be appended here by the due date.
+> This assignment is due by the last class (April 11, 2022 10:00am). However, the moderator needs to submit the author's summary and reader's log before your code inspection meeting. The in-meeting log and final summary can be appended here by the due date.
 >
 > Please refer to our coding and code inspection preparing slides for details.
 
