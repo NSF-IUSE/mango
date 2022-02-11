@@ -590,7 +590,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L12</strong>Software Security
+                    <strong class="label label-green">L12</strong><a href="../../assets/files/L12%20-%20software%20security%20assurance%20process.pdf">Software Security</a>
                 </p>
             </td>
             <td>
